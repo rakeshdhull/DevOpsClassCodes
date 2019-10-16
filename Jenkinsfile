@@ -1,5 +1,6 @@
 #!/usr/bin/env groovy
 
+//Pipeline as Code example
 import java.net.URL
 import hudson.model.*
 
